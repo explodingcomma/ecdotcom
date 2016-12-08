@@ -1,0 +1,4 @@
+Sitemap: http://explodingcomma.com/sitemapindex.xml
+
+User-Agent: *
+Host: explodingcomma.com
